@@ -1,0 +1,39 @@
+
+h1 {
+    font-family: Handlee;
+    text-align: center;
+}
+
+body {
+    background: #f2f5e5;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.NavBar ul {
+    list-style-type: none;
+    background-color: #315f6f;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+
+}
+
+.NavBar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display:block ;
+    text-align: center;
+}
+.NavBar a:hover{
+    background-color:#112d41;
+}
+.NavBar li{
+    float: left;
+}
